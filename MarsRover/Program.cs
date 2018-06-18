@@ -48,7 +48,7 @@ namespace MarsRover
         }
 
         /// <summary>
-        /// 
+        /// Initializes a rover with starting information
         /// </summary>
         /// <param name="line">line containing rover's starting</param>
         /// <param name="line">position from input</param>
